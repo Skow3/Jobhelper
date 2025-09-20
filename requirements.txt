@@ -2,3 +2,4 @@ streamlit
 langchain-community
 pypdf2
 numpy
+google-genai
