@@ -6,7 +6,7 @@ import hashlib
 import numpy as np
 import streamlit as st
 import PyPDF2 as pdf
-from google import genai
+import google.genai as genai
 from google.genai import types
 
 # Import database functions from the other file
